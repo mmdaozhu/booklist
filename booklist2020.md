@@ -7,4 +7,5 @@ tags:
 ---
 
 ###  1. 高效阅读的秘密 https://book.douban.com/subject/35057736/
-###  2. 口才三绝：会赞美会幽默会拒绝 https://book.douban.com/subject/33435171/
+
+###  2. 六极物理 https://book.douban.com/subject/35030244/
