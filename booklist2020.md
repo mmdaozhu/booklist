@@ -20,3 +20,7 @@ tags:
 
 ###  7. 科比布莱恩特全传 https://book.douban.com/subject/26908247/
 
+###  8. 设计模式 https://book.douban.com/subject/1052241/
+
+###  9. 从零开始学架构 https://book.douban.com/subject/30335935/
+
