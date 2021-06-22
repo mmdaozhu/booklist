@@ -10,4 +10,10 @@ tags:
 
 ###  2. 学会提问 https://book.douban.com/subject/33378880/
 
+###  3. Effective C++ https://book.douban.com/subject/5387403/
+
+###  4. More Effective C++ https://book.douban.com/subject/5908727/
+
+###  5. Effective Modern C++ https://book.douban.com/subject/30178902/
+
 
